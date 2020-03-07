@@ -2,7 +2,7 @@
 ## Lab 2
 
 ### App Description
-`TODO://` Add app description
+Made it user-based by asking for the question to put in.
 
 ### App Walk-though
 
